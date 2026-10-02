@@ -35,6 +35,7 @@ step2_dataset.py — certificate + product data for this test case
 step3_engine.py — the actual checking logic
 step4_report.py — prints the results
 run_all.py — runs everything
+
 What's not done yet
 No real link between products and suppliers — typed in by hand for now, no PLM data available
 One product at a time, not built for checking a whole catalog yet
